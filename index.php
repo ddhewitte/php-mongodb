@@ -49,5 +49,5 @@ foreach($row as $data){
 	echo '</tr>';
 }	
 
-
+echo '</table>';
 ?>
